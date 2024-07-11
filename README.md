@@ -26,6 +26,7 @@ You **can change anything** in the LegacyApp project except for the **UserDataAc
 
 Please answer the following questions in a markdown file called `Answers to technical questions.md`.
 
-- How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
-- What was the most useful feature that was added to the latest version of C#? Please include a snippet of code that shows how you've used it.
-- How would you track down an issue with this in production, assuming this api would be deployed as an app service in Azure.
+1.  How long did you spend on the coding test?  Ans: 2 hrs 45 mins.
+2.  What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add. Ans: Connecting to DB via EntityFramwork core , Add WebApI project
+3. What was the most useful feature that was added to the latest version of C#? Please include a snippet of code that shows how you've used it. Ans: Primary constructor
+4. How would you track down an issue with this in production, assuming this api would be deployed as an app service in Azure.  Ans: using AppInsights.
